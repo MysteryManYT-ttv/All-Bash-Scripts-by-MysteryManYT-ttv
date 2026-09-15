@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #GPL-3.0 LICENSE Copyright MysteryManYT-ttv 2026
+
 BLUE="\033[0;34m"
 ENDCOLOR="\033[0m"
 
