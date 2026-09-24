@@ -1,7 +1,6 @@
 #!/bin/bash
 
 
-
 #GPL-3.0 LICENSE Copyright MysteryManYT-ttv 2025
 #I write these to help me and maybe others
 #This will only work if you have a Fingerprint scanner.
