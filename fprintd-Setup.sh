@@ -9,7 +9,7 @@
 sudo apt upgrade && sudo apt install -y fprintd libpam-fprintd
 sudo pam-auth-update && sudo fwupdmgr refresh && sudo fwupdmgr update
 echo "Nothing working? Check BIOS to make sure the fingerprint sensor is enabled."
-fprint-enroll
+fprintd-enroll
 #You will see something like this
 #PAM profiles to enable:                                          
  #│                                                               
